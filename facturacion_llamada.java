@@ -1,5 +1,3 @@
-package DAW.Programación.Ejercicios.programas.Trim_1;
-
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
